@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/le000222/portfolio/blob/main/src/resources/images/Programmer%20cat.gif" width="200"/>
+  <img src="https://github.com/le000222/eri-portfolio/blob/main/src/resources/images/Programmer%20cat.gif" width="200"/>
 </p>
 
 <!-- Intro  -->
