@@ -10,7 +10,7 @@
 <!-- Intro  -->
 <h3 align="center">
   <samp>Hey There!, I am
-          <b><a target="_blank" href="https://github.com/le000222">Eri Le</a></b>
+          <b><a target="_blank" href="https://portfolio-le000222.vercel.app/">Eri Le</a></b>
   </samp>
 </h3>
 
@@ -29,7 +29,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: erile200105@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/le000222/)
+ 💬 &emsp; Ask me about anything ![here](https://portfolio-le000222.vercel.app/)
 </p>
 <br/>
 <br/>
