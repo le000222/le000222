@@ -29,7 +29,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: erile200105@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://portfolio-le000222.vercel.app/#contact)
+ 💬 &emsp; Ask me about anything <a href="https://portfolio-le000222.vercel.app/#contact" target="_blank">here</a>
 </p>
 <br/>
 <br/>
